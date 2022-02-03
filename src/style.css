@@ -33,3 +33,32 @@
 .hero-bar button {
   margin-top: 20px;
 }
+.all-boxes {
+  /* background: yellowgreen; */
+  overflow: hidden;
+}
+.box {
+  float: left;
+  width: 30%;
+  margin: 15px;
+}
+.box-image {
+  background-color: rgb(238, 238, 238);
+  padding: 80px;
+  margin: 10px;
+}
+.box-heading {
+  font-weight: bold;
+  text-align: center;
+}
+.box-text {
+  text-align: center;
+  padding: 10px;
+}
+.btn-learn-more {
+  text-align: center;
+  padding: 10px;
+}
+.btn-learn-more a {
+  color: black;
+}
