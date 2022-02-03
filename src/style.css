@@ -1,0 +1,35 @@
+.container {
+  margin: 25px;
+}
+#nav {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+#nav ul {
+  float: right;
+}
+#nav li {
+  display: inline;
+}
+#nav li a {
+  margin: 5px;
+}
+.site-logo-text {
+  font-size: 35px;
+  font-weight: bold;
+  border-left: 20px solid white;
+}
+.hero-bar {
+  margin-top: 20px;
+  border-top: 15px solid rgb(238, 238, 238);
+  border-bottom: 30px solid rgb(238, 238, 238);
+  border-left: 20px solid rgb(238, 238, 238);
+  background-color: rgb(238, 238, 238);
+}
+.hero-text {
+  width: 20%;
+}
+.hero-bar button {
+  margin-top: 20px;
+}
